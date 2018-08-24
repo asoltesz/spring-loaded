@@ -58,6 +58,10 @@ A. The technology is successfully being used by Grails for reloading. It does ne
 work and a few smacks with a refactoring hammer. It needs upgrading here and there to tolerate
 the invokedynamic instruction and associated new constant pool entries that arrived in Java 7.
 
+# Documentation
+
+Please see the [Wiki](../../wiki) 
+
 # Working with the code
 
 	git clone https://github.com/spring-projects/spring-loaded
